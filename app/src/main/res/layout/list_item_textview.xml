@@ -5,6 +5,7 @@
     android:id="@+id/my_item_textview"
     android:textSize="20sp"
     android:padding="16dp"
+    android:textColor="#000"
     >
 
 </TextView>
